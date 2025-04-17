@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">👋 Welcome to Weldson Gabriel's Dev API</h1>
 
-<!--
-**WeldsonGabriel/WeldsonGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3><code>GET /api/profile</code></h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "🧑‍💻 name": "Weldson Gabriel",
+  "🛠️ role": "Backend Developer Jr",
+  "🚧 currentlyWorkingOn": "APIs REST com Node.js + Nest.js; Kotlin + Spring Boot",
+  "📚 currentlyLearning": [
+    "Arquitetura de Software", 
+    "Docker", 
+    "Clean Architecture", 
+    "Kafka", 
+    "SOLID"
+  ],
+  "📫 contact": "gabrielborgesw2@gmail.com",
+  "😄 funFact": "Já trabalhei em um porão úmido atrás de um açougue antes de virar dev 😅"
+}
+{
+  "🤝 lookingToCollaborateOn": "Projetos backend (Node.js / Kotlin)",
+  "💬 askMeAbout": ["APIs REST", "PostgreSQL", "Organização de processos"]
+}
