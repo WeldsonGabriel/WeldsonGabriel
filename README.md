@@ -7,6 +7,10 @@
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Kafka" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+  <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
+  <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
 
 ##
@@ -39,11 +43,11 @@
 
 - **Alura Book**  
   Um projeto de aplicação de backend para uma plataforma de livros, utilizando conceitos de API REST com Node.js.  
-  [Link para o repositório](https://github.com/WeldsonGabriel/alura-book)
+  [Link para o repositório](https://github.com/WeldsonGabriel/Book_alura_book_12)
 
 - **Gateway**  
   Projeto de implementação de um gateway de API utilizando padrões de arquitetura para integrar serviços internos.  
-  [Link para o repositório](https://github.com/WeldsonGabriel/gateway)
+  [Link para o repositório](https://github.com/WeldsonGabriel/gateway-pg_full)
 
 ---
 
