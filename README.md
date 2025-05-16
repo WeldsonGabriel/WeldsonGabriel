@@ -20,12 +20,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeldsonGabriel&layout=compact&theme=tokyonight)
 
 ---
-## 🐍 Snake Game
-
-![snake gif](https://github.com/WeldsonGabriel/WeldsonGabriel/raw/output/github-contribution-grid-snake.svg)
-
-
-
 ### 🧠 Sobre mim
 
 - 🔭 Atualmente trabalhando com: APIs REST com Node.js + Nest.js e Kotlin + Spring Boot  
