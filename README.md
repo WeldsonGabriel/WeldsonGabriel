@@ -20,12 +20,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeldsonGabriel&layout=compact&theme=tokyonight)
 
 ---
-### Snake 🐍
+## 🐍 Snake Game
 
-![snake gif](https://raw.githubusercontent.com/WeldsonGabriel/WeldsonGabriel/output/github-contribution-grid-snake.svg)
-
-
-
+![snake gif](https://github.com/WeldsonGabriel/WeldsonGabriel/raw/output/github-contribution-grid-snake.svg)
 
 ### 🧠 Sobre mim
 
