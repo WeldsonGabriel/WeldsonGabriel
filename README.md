@@ -21,7 +21,8 @@
 
 ---
 ### 🐍 Snake das minhas contribuições GitHub
-![Snake animation](https://raw.githubusercontent.com/WeldsonGabriel/WeldsonGabriel/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/WeldsonGabriel/WeldsonGabriel/output/github-contribution-grid-snake.svg)
+
 
 
 ### 🧠 Sobre mim
