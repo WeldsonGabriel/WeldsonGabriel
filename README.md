@@ -22,8 +22,8 @@
 ---
 ## 🐍 Snake Game
 
-![snake dark](https://github.com/WeldsonGabriel/WeldsonGabriel/raw/output/github-contribution-grid-snake-dark.svg)
-![snake gif](https://github.com/WeldsonGabriel/WeldsonGabriel/raw/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/WeldsonGabriel/WeldsonGabriel/raw/output/github-contribution-grid-snake.svg)
+
 
 
 ### 🧠 Sobre mim
