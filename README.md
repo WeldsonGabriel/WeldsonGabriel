@@ -20,6 +20,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeldsonGabriel&layout=compact&theme=tokyonight)
 
 ---
+### 🐍 Meu gráfico de contribuições em forma de cobrinha
+
+![Snake animation]([https://github.com/WeldsonGabriel/github-snake/blob/output/github-contribution-grid-snake.svg](https://github.com/SEU_USUARIO/github-snake/blob/output/github-contribution-grid-snake.svg
+))
+
 
 ### 🧠 Sobre mim
 
