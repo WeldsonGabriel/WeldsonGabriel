@@ -1,8 +1,6 @@
 ## 👋 Oi! Eu sou o Weldson Gabriel, desenvolvedor backend apaixonado por tecnologia!!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
@@ -22,9 +20,9 @@
 ---
 ### 🧠 Sobre mim
 
-- 🔭 Atualmente trabalhando com: APIs REST com Node.js + Nest.js e Kotlin + Spring Boot  
+- 🔭 Atualmente trabalhando com: APIs REST com Java e Kotlin + Spring Boot  
 - 🌱 Estudando: Arquitetura de Software, Docker, Clean Architecture, Kafka, SOLID  
-- 👯 Buscando colaborar com: Projetos backend (Node.js / Kotlin)  
+- 👯 Buscando colaborar com: Projetos backend (Java / Kotlin)  
 - 💬 Me pergunte sobre: APIs REST, PostgreSQL, Organização de processos  
 - 😄 Curiosidade: Já trabalhei em um porão úmido atrás de um açougue antes de virar dev 😅  
 
