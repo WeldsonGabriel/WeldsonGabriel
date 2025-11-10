@@ -31,13 +31,6 @@
 
 ## 📝 Projetos
 
-- **Alura Book**  
-  Um projeto de aplicação de backend para uma plataforma de livros, utilizando conceitos de API REST com Node.js.  
-  [Link para o repositório](https://github.com/WeldsonGabriel/Book_alura_book_12)
-
-- **Gateway**  
-  Projeto de implementação de um gateway de API utilizando padrões de arquitetura para integrar serviços internos.  
-  [Link para o repositório](https://github.com/WeldsonGabriel/gateway-pg_full)
 
 ---
 
