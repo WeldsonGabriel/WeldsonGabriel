@@ -11,25 +11,29 @@
   <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
 
-##
+---
 
 ### 📊 GitHub Stats
 
-![Weldson's GitHub stats] (https://github-readme-stats.vercel.app/api?username=WeldsonGabriel&show_icons=true&theme=tokyonight)
-![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=WeldsonGabriel&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WeldsonGabriel&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeldsonGabriel&layout=compact&theme=tokyonight" />
+</p>
 
 ---
+
 ### 🧠 Sobre mim
 
-- 🔭 Atualmente trabalhando com: APIs REST com Java e Kotlin + Spring Boot  
-- 🌱 Estudando: Arquitetura de Software, Docker, Clean Architecture, Kafka, SOLID  
-- 👯 Buscando colaborar com: Projetos backend (Java / Kotlin)  
-- 💬 Me pergunte sobre: APIs REST, PostgreSQL, Organização de processos  
-- 😄 Curiosidade: Já trabalhei em um porão úmido atrás de um açougue antes de virar dev 😅  
+* 🔭 Atualmente trabalhando com: APIs REST com Java e Kotlin + Spring Boot
+* 🌱 Estudando: Arquitetura de Software, Docker, Clean Architecture, Kafka, SOLID
+* 👯 Buscando colaborar com: Projetos backend (Java / Kotlin)
+* 💬 Me pergunte sobre: APIs REST, PostgreSQL, Organização de processos
+* 😄 Curiosidade: Já trabalhei em um porão úmido atrás de um açougue antes de virar dev 😅
 
 ---
 
 ## 📝 Projetos
+
 
 
 ---
@@ -47,3 +51,4 @@
   "contact": "gabrielborgesw2@gmail.com",
   "funFact": "Já trabalhei em um porão úmido atrás de um açougue antes de virar dev 😅"
 }
+```
