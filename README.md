@@ -15,11 +15,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WeldsonGabriel&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeldsonGabriel&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ### 🧠 Sobre mim
